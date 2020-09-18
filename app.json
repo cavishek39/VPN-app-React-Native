@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "VPN",
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "slug": "your-app-slug",
+    "ios": {
+      "bundleIdentifier": "com.cavishek.vpn",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.yourcompany.yourappname",
+      "versionCode": 1
+    }
+  }
+}
