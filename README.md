@@ -11,7 +11,7 @@ I created a VPN app where I did all the front-end stuff of the app with the help
 ### Running the project
  -  Clone this project
   
-Use `git clone < project-url.git >`
+Use `git clone https://github.com/cavishek39/VPN-app-React-Native.git`
 
  - Install [NodeJS](https://nodejs.org/en/) on your computer.
 
